@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Monitoring ^Wipeout"];
+const statusMessages = ["PLaying Wipeout"];
 
 
 let currentIndex = 0;
