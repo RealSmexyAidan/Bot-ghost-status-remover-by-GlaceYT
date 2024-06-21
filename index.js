@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLaying Wipeout"];
+const statusMessages = ["Playing Wipeout"];
 
 
 let currentIndex = 0;
